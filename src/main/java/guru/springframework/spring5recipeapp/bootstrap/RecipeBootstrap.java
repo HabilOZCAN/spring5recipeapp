@@ -98,7 +98,7 @@ public class RecipeBootstrap implements ApplicationListener<ContextRefreshedEven
                 "3. ;lakfdj;alkjdf;alkjf;al\n" +
                 "4. ;lakfdj;alkjdf;alkjf;al\n" +
                 "\n" +
-                "\n"+
+                "\n" +
                 "Read more: http://www.google.com");
 
         Notes guacNotes = new Notes();
@@ -136,15 +136,15 @@ public class RecipeBootstrap implements ApplicationListener<ContextRefreshedEven
         tacoRecipe.setDirections("1. kladfs;adjsf;lkafjds\n" +
                 "2 ;lakfdj;alkjdf;alkjf;al\n" +
                 ";lakfdj;alkjdf;alkjf;al\n" +
-                "\n"+
-                "\n"+
+                "\n" +
+                "\n" +
                 "3 ;lakfdj;alkjdf;alkjf;al\n" +
                 ";lakfdj;alkjdf;alkjf;al\n" +
                 "4 ;lakfdj;alkjdf;alkjf;al\n" +
                 ";lakfdj;alkjdf;alkjf;al\n" +
                 "5 ;lakfdj;alkjdf;alkjf;al\n" +
-                "\n"+
-                "\n"+
+                "\n" +
+                "\n" +
                 "read more: http://www.google.com");
 
         Notes tacoNotes = new Notes();
@@ -154,7 +154,7 @@ public class RecipeBootstrap implements ApplicationListener<ContextRefreshedEven
                 "TACos free to ask whatever you want to learn about life\n" +
                 "TACos at the end, you will realise that you are alone and together\n" +
                 "\n" +
-                "\n"+
+                "\n" +
                 "read more: http://www.google.com");
 
         tacoNotes.setRecipe(tacoRecipe);
